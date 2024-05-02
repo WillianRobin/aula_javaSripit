@@ -1,0 +1,16 @@
+var, let, const = # : criar uma variavel
+var :
+let :
+const :
+
+alert() : criar uma alerta pagina
+(variavel) = prompt() : caixa de texto
+
+console.log( # .toUpperCase()) : Letra Maiúscula
+console.log( # .toLowerCase()) : Letra Minúscula
+console.log( # .charAt(Nº)) : Mostra apenas um letra
+console.log( # .length) : Mostra a quantidade de carcteres
+console.log( # .substring(N°)) : corta em um ponto que deseja se preferir o final tbm
+console.log( # .replace('   ,   ')) = troca de palavras
+
+var,let,const ## = #.split(' ') = sepera as palvras em vez de carcteres
