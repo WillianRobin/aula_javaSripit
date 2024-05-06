@@ -1,3 +1,6 @@
+
+
+
 var, let, const = # : criar uma variavel
 var :
 let :
@@ -5,7 +8,7 @@ const :
 
 alert() : criar uma alerta pagina
 (variavel) = prompt() : caixa de texto
-
+(variavel) = ParseInt(prompt()) : numero inteiro
 console.log( # .toUpperCase()) : Letra Maiúscula
 console.log( # .toLowerCase()) : Letra Minúscula
 console.log( # .charAt(Nº)) : Mostra apenas um letra
@@ -14,3 +17,11 @@ console.log( # .substring(N°)) : corta em um ponto que deseja se preferir o fin
 console.log( # .replace('   ,   ')) = troca de palavras
 
 var,let,const ## = #.split(' ') = sepera as palvras em vez de carcteres
+
+CONDIÇÃO
+
+>= maior ou igual
+<= menor ou igual
+== igual
+=== valor e tipo de dado   (¬_¬)
+!= valor diferente
