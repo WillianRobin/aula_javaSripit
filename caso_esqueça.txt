@@ -25,3 +25,14 @@ CONDIÇÃO
 == igual
 === valor e tipo de dado   (¬_¬)
 != valor diferente
+
+switch:
+
+switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
+}
