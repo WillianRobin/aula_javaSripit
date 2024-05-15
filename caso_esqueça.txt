@@ -36,3 +36,8 @@ switch (key) {
     default:
         break;
 }
+
+
+ FUNCTION
+
+return = retorna o valor
