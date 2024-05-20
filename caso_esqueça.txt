@@ -41,3 +41,13 @@ switch (key) {
  FUNCTION
 
 return = retorna o valor
+
+
+.
+
+
+filter = 
+
+map = 
+
+forEach = 
