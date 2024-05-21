@@ -1,5 +1,33 @@
-div{
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: darkgray;
+}
+
+a {
+    font-size: 5vh;
+    color: white;
+}
+img{
+    height: 20vh;
+}
+
+header {
     display: flex;
-    align-items: center;
-    flex-direction: column;
+    background-color: black;
+    justify-content: space-around;
+}
+p{
+    font-size: 2vh;
+}
+
+footer {
+    display: flex;
+    align-content: center;
+    background-color: black;
+    justify-content: center;
 }
