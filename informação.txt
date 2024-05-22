@@ -1,0 +1,35 @@
+__________________________
+
+ENCAPSULAMENTO:
+
+O encapsulamento é o processo de ocultar 
+detalhes de implementação e exibirapenas 
+a funcionalidade ao usuário.
+
+----------------------
+
+ABSTRAÇÃO:
+
+A abstração é uma metodologia que permite 
+representar o mundo real em termos de 
+classes e objetos.
+
+-----------------------
+
+HERANÇA:
+
+A herança é um mecanismo que permite que 
+uma classe herde propriedades e 
+comportamento de uma classe pai.
+
+-----------------------
+
+POLIMORFISMO:
+
+O polimorfismo permite que uma classe 
+tenha múltiplas formas.
+Exemplo:
+
+let animal = [`cao`, `cavalo`, `gato`]
+
+------------------------
