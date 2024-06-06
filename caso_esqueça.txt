@@ -62,3 +62,24 @@ forEach =
 Class = moude
 
 Métodos = Ação
+--------------------------------------
+D O M:
+
+DOM = arvore cronologica do documento
+
+getElementById = Pega o elemento por id.
+
+Exemplo: <h1 id:"#">
+
+getElementsByClassName = Pega o elemento por Classe.
+
+Exemplo: <h1 Class= "#">
+
+getElementsByTagName = Pega pela Tag.
+
+Exemplo: <h1> <img> <p>
+
+getElementsByName = pega pelo Name dentro da Tag.
+
+Exemplo: <h1 name= "#">
+---------------------------------------
